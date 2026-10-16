@@ -101,7 +101,8 @@ dve -full64 &
 A DVE environment will open.
 
 DVE Waveform Verification
-<img width="1912" height="1078" alt="Screenshot 2026-10-14 154529" src="https://github.com/user-attachments/assets/aa8805a0-393b-4f5b-9516-cbfafbfece19" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f89fdf60-e832-401a-a09a-cccafb86d2ce" />
+
 
 
 
